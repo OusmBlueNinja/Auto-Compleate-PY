@@ -20,15 +20,15 @@ This program requires the following modules:
 
 ## code
 
-'''python
+"""python
 import stringComplete as SC
 
 print(sc.getWord("peo"))
-'''
+"""
 ## Output
-'''
+"""
 people
-'''
+"""
 
 
 
