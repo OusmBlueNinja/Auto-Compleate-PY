@@ -1,4 +1,4 @@
-### AutoComplete Program
+# AutoComplete Program
 This Python program uses a common.json file filled with words and allows the user to input text to receive suggestions of words that start with the entered characters.
 
 ## Dependencies
