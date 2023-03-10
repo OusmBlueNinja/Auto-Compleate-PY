@@ -2,7 +2,7 @@ import pygame
 import json, msvcrt, sys, os
 
 def load_words():
-    with open("words_dictionary.json", "r") as f:
+    with open("common.json", "r") as f:
         return json.load(f)
 
 def autocomplete(prefix, words):
