@@ -16,5 +16,22 @@ This program requires the following modules:
 5. Use the backspace key to remove characters from the text.
 6. Press ? to exit the program.
 
+## Library Use
+
+## code
+
+'''python
+import stringComplete as SC
+
+print(sc.getWord("peo"))
+'''
+## Output
+'''
+people
+'''
+
+
+
+
 ## Credits
 This program was created by GigabiteStudios/OsumBlueNinja.
