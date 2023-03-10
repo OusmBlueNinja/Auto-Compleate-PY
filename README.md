@@ -22,7 +22,7 @@ This program requires the following modules:
 
 ```python
 
-import stringComplete as SC
+import stringComplete as sc
 
 print(sc.getWord("peo"))
 
